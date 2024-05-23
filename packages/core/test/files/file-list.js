@@ -7,6 +7,7 @@ module.exports = [
     category: "General",
     files: [
       { file: "print_media/index.html", title: "Print media" },
+      { file: "table_bug.html", title: "table bug" },
       {
         file: "vivliostyle_media/index.html",
         title: "'vivliostyle' vs 'screen' media",
